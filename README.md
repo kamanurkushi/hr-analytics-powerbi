@@ -8,11 +8,11 @@ A 3-page Power BI dashboard analyzing employee attrition, workforce composition,
 
 | Attrition & Workforce | Workforce Analysis |
 |---|---|
-| ![Attrition](employee_attrition_and_workforce_insights_.png) | ![Workforce](Workforce_Analysis.png) |
+| ![Attrition](employee attrition and workforce insights.png) | ![Workforce](Workforce Analysis.png) |
 
 | Retention & Risk | |
 |---|---|
-| ![Retention](retention_and_risk_insights.png) | |
+| ![Retention](retention and risk insights.png) | |
 
 ---
 
